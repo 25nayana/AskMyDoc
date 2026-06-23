@@ -8,16 +8,3 @@ AskMyDoc is a user-friendly document analyst powered by LLMs and RAG (Retrieval-
 -	Multi-Chat Support: Working on different projects? Start a new chat with a different user_id to separate your sessions.
 -	Clear Chat History: Done with a project? Use the simple “clear” command to erase document history.
 
-## Images
-### Image 1
-![Image 1](images/img%201.png)
-
-### Image 2
-![Image 2](images/img%202.png)
-
-### Image 3
-![Image 3](images/img%203.png)
-
-
-### Image 5
-![Image 5](images/img%205.png)
